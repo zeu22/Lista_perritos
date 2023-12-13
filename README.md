@@ -1,2 +1,3 @@
 El proyecto se encarga de hacer una lista de perros que gustan y disgustan, y los va guardando en un tipo contenedor. Su función en cuanto a elección se asimila a la de Tinder. Se utiliza HTML, CSS, Javascript, comunicación con un backend (API). Al abrir la aplicación saldra un perro, el usuario selecciona si le gusta o no, cada vez que se recargue saldra un perro aleatorio, de igual forma al momento de pulsar cualquiera de los botones disponibles.
 Si le gusta el perro, se ira creando una lista de los perros que le gusta. De igual forma pasara si le da al boton de Dislike.
+Entre el tiempo de carga saldra un tipo spinner que indica que la siguiente imagen esta cargandose
